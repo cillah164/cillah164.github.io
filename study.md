@@ -4,7 +4,7 @@
 >*Git 정의 / 중요성   
 Git 명령어   
 ---
-#Day2
+#Day2   
 >*Git Alias 설정   
 *Branch   
  *Branch 생성   
@@ -19,7 +19,6 @@ Git 명령어
  *MarkDown 사용법   
 *Pull Request
 ---
-#Day4
+#Day4   
 >*MarkDown 실습   
 *User.github.io
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
