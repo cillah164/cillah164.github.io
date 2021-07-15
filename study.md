@@ -14,12 +14,12 @@ Git 명령어
 ---
 #Day3   
 >*MarkDown   
- *MarkDown이란
- *MarkDown 장단점
- *MarkDown 사용법
+ *MarkDown이란   
+ *MarkDown 장단점   
+ *MarkDown 사용법   
 *Pull Request
 ---
 #Day4
->*MarkDown 실습
+>*MarkDown 실습   
 *User.github.io
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
