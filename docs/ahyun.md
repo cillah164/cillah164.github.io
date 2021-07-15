@@ -6,19 +6,19 @@
 ---
 ##Day2
 >*Git Alias 설정   
-*Branch
- *Branch 생성
- *Branch 이주
- *Branch 병합
- *Merge Conflict   
+*Branch   
+  -Branch 생성   
+  -Branch 이주   
+  -Branch 병합   
+  -Merge Conflict      
 ---
 ##Day3
->*MarkDown
- *MarkDown이란
- *MarkDown 장단점
- *MarkDown 사용법
-*Pull Request
+>*MarkDown   
+  -MarkDown이란   
+  -MarkDown 장단점   
+  -MarkDown 사용법   
+*Pull Request   
 ---
 ##Day4
->*MarkDown 실습
+>*MarkDown 실습   
 *User.github.io    
